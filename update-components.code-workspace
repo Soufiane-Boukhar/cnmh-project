@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			// Docs and release notes
+			"name": "Components",
+			"path": "./components"
+		  },
+		{
+			// Source code
+			"name": "CNMH",
+			"path": "./app"
+		  }
+
+	],
+	"settings": {}
+}

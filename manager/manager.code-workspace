@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			// Source code
+			"name": "Manager",
+			"path": "."
+		  },
+		  {
+			// Docs and release notes
+			"name": "Components",
+			"path": "../components"
+		  },
+		  {
+			// Generator
+			"name": "Generator",
+			"path": "../laravel-generator"
+		  },
+		  {
+			// CNMH
+			"name": "CNMH",
+			"path": "../app"
+		  }
+	],
+	"settings": {}
+}
